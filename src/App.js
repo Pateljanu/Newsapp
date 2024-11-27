@@ -9,6 +9,8 @@ export default class App extends Component {
       <div >
         <Navbar/>
         <News pageSize={5}/>
+        comsole.log("hello world");
+        
       </div>
     )
   }
