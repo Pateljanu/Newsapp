@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Rohan Goswami",
+        "title": "Former Pfizer CEO, finance chief step back from Starboard's activist campaign - CNBC",
+        "description": "The about face comes as the board grapples with the activist's efforts, and just days before Starboard's Jeff Smith was slated to meet with the CEO, sources said.",
+        "url": "https://www.cnbc.com/2024/10/10/former-pfizer-ceo-finance-chief-step-back-from-starboards-activist-campaign.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/105323833-1531327566731gettyimages-819757616.jpeg?v=1728524162&w=1920&h=1080",
+        "publishedAt": "2024-10-10T02:04:00Z",
+        "content": "Former Pfizer CEO Ian Read and ex-CFO Frank D'Amelio said Wednesday evening that they would step away from Starboard Value's campaign at the struggling pharmaceutical giant, just days after news of t… [+1741 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Andy Sullivan, Matt Tracy, Michelle Conlin",
+        "title": "Milton threatens to upend shaky Florida homeowners insurance market - Reuters",
+        "description": "Hurricane Milton threatens to swamp Florida's troubled property-insurance market, potentially pushing prices higher and threatening coverage in a storm-prone region that already has the highest insurance costs in the nation.",
+        "url": "https://www.reuters.com/world/us/milton-threatens-upend-shaky-florida-homeowners-insurance-market-2024-10-09/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/DWOF4HL7JBOBTL4V7R7H2ID6AE.jpg?auth=acef388e80119e941a84a1afffd826389ad6df86d31171f9b941b312cbf4eca3&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-10T01:29:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Jacob Kienlen",
+        "title": "10 Trending Amazon Deals That You Can Still Get Before October Prime Day Ends - IGN",
+        "description": "These deals are hot!",
+        "url": "https://www.ign.com/articles/most-popular-october-prime-day-deals-on-amazon-2024",
+        "urlToImage": "https://assets-prd.ignimgs.com/2024/10/10/trending-deals-1728521206363.jpg?width=1280",
+        "publishedAt": "2024-10-10T01:02:48Z",
+        "content": "We've been covering Amazon Big Deal Days pretty extensively this year and have already done the work to sort out our top picks from the October Prime Day sale. These are all discounts that we think a… [+2625 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Tesla to unveil Cybercab, its big bet on self driving cars - BBC.com",
+        "description": "Elon Musk will unveil a prototype for the long awaited robotaxi at a film studio in Hollywood.",
+        "url": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b51/live/d85199a0-8665-11ef-822c-a50726bfda2e.jpg",
+        "publishedAt": "2024-10-09T23:37:02Z",
+        "content": "Tesla boss Elon Musk is to unveil the firm's long-awaited robotaxi prototype, the Cybercab, at the Warner Bros Studios in Burbank, California on Thursday.\r\nSelf-driving cars have long fascinated Mr M… [+3466 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Hakyung Kim",
+        "title": "Stock futures are little changed as September consumer inflation report looms: Live updates - CNBC",
+        "description": "The Dow and S&P 500 closed at new highs on Wednesday.",
+        "url": "https://www.cnbc.com/2024/10/09/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108044744-1728398149875-gettyimages-2177437609-ms1_1689_hgnazcwi.jpeg?v=1728509797&w=1920&h=1080",
+        "publishedAt": "2024-10-09T23:18:00Z",
+        "content": "U.S. stock futures were little changed Wednesday night as investors looked ahead to the release of September's consumer price index report.\r\nFutures tied to the Dow Jones Industrial Average traded ne… [+1603 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Nate Raymond",
+        "title": "US charges 3 companies, 15 people with cryptocurrency fraud - Reuters",
+        "description": "Three cryptocurrency companies and 15 people have been charged with engaging in widespread fraud and market manipulation following an investigation in which the FBI for the first time directed the creation of a new digital token to help authorities ferret out…",
+        "url": "https://www.reuters.com/legal/us-charges-18-people-companies-cryptocurrency-fraud-2024-10-09/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/BHF7CPEM7ZPCHHHQ2TRPZAXSR4.jpg?auth=d27ad3fa987796e8c671ded82da39179fb6e051fc1f606a15f3bea467eda5b15&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-09T22:15:10Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Josh Lipton",
+        "title": "Dow, S&P record highs, Hurricane Milton: Market Domination Overtime - Yahoo Finance",
+        "description": "On today's episode of Market Domination Overtime, Hosts Josh Lipton and Madison Mills analyze the market close and break down some of the biggest stories of ...",
+        "url": "https://finance.yahoo.com/video/dow-p-record-highs-hurricane-220451265.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+        "publishedAt": "2024-10-09T22:04:51Z",
+        "content": "On today's episode of Market Domination Overtime, Hosts Josh Lipton and Madison Mills analyze the market close and break down some of the biggest stories of the trading day.\r\nThe big three stock mark… [+1752 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Beth Mole",
+        "title": "Drug makers can’t make knockoff weight-loss drugs anymore—and they’re mad - Ars Technica",
+        "description": "Compounding pharmacies could make knockoffs during shortage. But FDA says it’s over.",
+        "url": "https://arstechnica.com/health/2024/10/drug-makers-sue-fda-so-they-can-keep-making-knockoff-weight-loss-drugs/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-1245722172-scaled.jpg",
+        "publishedAt": "2024-10-09T21:17:09Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Boeing Strike Drags On Dow As Talks Collapse, Payment Offer Withdrawn - Investor's Business Daily",
+        "description": "Boeing and its mechanist union held an unproductive round of talks on Monday and Tuesday.",
+        "url": "https://www.investors.com/news/boeing-strike-dow-jones-talks-collapse-withdraws-offer-boeing-stock/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2020/01/Stock-Boeing-MAX7Hanger-company.jpg",
+        "publishedAt": "2024-10-09T20:16:00Z",
+        "content": "The Boeing strike took another sour turn after negotiations between the Dow Jones giant and its machinist union broke down on Tuesday. Boeing stock slid Wednesday.\r\nBoeing (BA) on Tuesday said it wit… [+3548 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "'Waffle House Index' shows Florida closures as Hurricane Milton approaches - Fox Business",
+        "description": "The Waffle House Index is reporting closures in parts of central and southwest Florida as Hurricane Milton approaches, bringing devastating storm surge and high winds.",
+        "url": "https://www.foxbusiness.com/economy/waffle-house-index-shows-florida-closures-hurricane-milton-approaches",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/waffle-house-2.jpg?ve=1&tl=1",
+        "publishedAt": "2024-10-09T20:03:00Z",
+        "content": "Hurricane Milton is approaching central Florida, with the powerful storm due to make landfall late Wednesday, and it has Floridians monitoring the \"Waffle House Index\" for impacts to their area as th… [+3408 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Home Depot Is Dropping Warehouses in a Shifting Retail Market - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/articles/home-depot-is-dropping-warehouses-in-a-shifting-retail-market-4f8e581a",
+        "urlToImage": null,
+        "publishedAt": "2024-10-09T20:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Barron's"
+        },
+        "author": "Barron's",
+        "title": "Why Google Breakup Talk Isn’t Slamming Alphabet Stock - Barron's",
+        "description": null,
+        "url": "https://www.barrons.com/articles/google-breakup-monopoly-alphabet-stock-doj-161b8be1",
+        "urlToImage": null,
+        "publishedAt": "2024-10-09T19:42:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Federal Reserve officials were divided over September’s big rate cut - Financial Times",
+        "description": null,
+        "url": "https://www.ft.com/content/f7cd43f4-9b20-4036-8e77-3d1411d528fd",
+        "urlToImage": null,
+        "publishedAt": "2024-10-09T18:57:05Z",
+        "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n\u003Cul\u003E\u003Cli\u003E\u003C/li\u003EWeekday Print Edition\u003Cli\u003E\u003C/li\u003EFT Weekend\u003Cli\u003E\u003C/li\u003EFT Digital Edition\u003Cli\u003EGlobal n… [+105 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "Lance Whitney",
+        "title": "If you're a Marriott customer, FTC says the breach-plagued hotel chain owes you - ZDNet",
+        "description": "Following a settlement with the FTC, the hotel chain must implement a host of security changes and provide help to customers affected by the string of data breaches.",
+        "url": "https://www.zdnet.com/article/if-youre-a-marriott-customer-ftc-says-the-breach-plagued-hotel-chain-owes-you/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/60e02b0917da70465d9202f838d74249621ee240/2024/10/09/3a8f4235-f6b1-4374-8b5b-093e6a40d0ba/marriott5gettyimages-904038172.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-10-09T18:50:00Z",
+        "content": "AFP/Getty Images\r\nThe FTC has come down hard on hotel chain Marriott following a series of data breaches between 2014 and 2020 that harmed more than 344 million customers around the world.\r\nIn a Wedn… [+5619 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Bradley Keoun",
+        "title": "The Protocol: Peter Todd Wants to Fix Satoshi's Bitcoin Bugs - CoinDesk",
+        "description": "The HBO documentary turned the spotlight on an early Bitcoin contributor who recently has proposed an upgrade to fix all the bugs left in Bitcoin's original code. PLUS: Criticisms mount after EigenLayer unlocks EIGEN token, as Babylon vaults to top of Bitcoin…",
+        "url": "https://www.coindesk.com/tech/2024/10/09/the-protocol-peter-todd-wants-to-fix-satoshis-bitcoin-bugs/",
+        "urlToImage": "https://www.coindesk.com/resizer/L1CR0_sEwP_4GGgBMV-z0WTTFKk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LZBUJT5QRZGAJHR3TA2ZNR45IU.jpg",
+        "publishedAt": "2024-10-09T18:14:00Z",
+        "content": "Axelar, a blockchain interoperability project, has launched Mobius Development Stack, described as \"a reimagined Web3 design space,\" according to the team: \"Axelar Mobius Development Stack (MDS), an … [+405 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Eugene Kim",
+        "title": "Amazon is becoming Big Tech's king of cash, and Wall Street wants a piece of it - Business Insider",
+        "description": "The company used to be relatively cash-poor compared with its Big Tech rivals. Now the cloud giant is expected to amass almost $400 billion by 2027.",
+        "url": "https://www.businessinsider.com/amazon-big-tech-cash-king-wall-street-wants-a-piece-2024-10",
+        "urlToImage": "https://i.insider.com/657cd10950edbc52a86501c2?width=1200&format=jpeg",
+        "publishedAt": "2024-10-09T18:05:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Emergency landing at JFK after Turkish Airlines pilot dies midflight - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/turkish-airlines-pilot-dies-flight/story?id\\\\u003d114639903",
+        "urlToImage": null,
+        "publishedAt": "2024-10-09T17:58:46Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Aislinn Murphy",
+        "title": "Honda recalls 1.7M vehicles for defective steering gearbox component - Fox Business",
+        "description": "Honda is recalling about 1.7 million Honda and Acura vehicles in the U.S. over concerns they may have a defective steering gearbox component that could pose a safety risk.",
+        "url": "https://www.foxbusiness.com/markets/honda-recalls-1-7m-vehicles-defective-steering-gearbox-component",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/Honda-Dealership-GettyImages-906980576.jpg?ve=1&tl=1",
+        "publishedAt": "2024-10-09T17:52:00Z",
+        "content": "Honda is recalling about 1.7 million Honda and Acura vehicles in the U.S. over concerns they may have a defective steering gearbox component that could pose a safety risk. \r\n\"American Honda is announ… [+2741 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "CJ Haddad",
+        "title": "Nvidia shares are up 25% in the last month, rallying near a record ahead of tech earnings - CNBC",
+        "description": "Nvidia shares have surged 25% over the last month, with analysts maintaining a bullish outlook as earnings season approaches.",
+        "url": "https://www.cnbc.com/2024/10/09/nvidia-stock-up-25percent-in-a-month-as-stock-closes-in-on-new-record.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107423284-17174221132024-06-02t142400z_1755485573_rc2038a1k8k0_rtrmadp_0_nvidia-taiwan.jpeg?v=1717428700&w=1920&h=1080",
+        "publishedAt": "2024-10-09T17:48:06Z",
+        "content": "Nvidia shares have surged 25% in the last month and are closing in on a record ahead of tech earnings season in the coming weeks, when top customers like Meta, Microsoft and Alphabet will update shar… [+2165 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Barron's"
+        },
+        "author": "Barron's",
+        "title": "SMCI Stock Gains Again in Super Volatile Week for Super Micro - Barron's",
+        "description": null,
+        "url": "https://www.barrons.com/articles/super-micro-stock-price-04389158",
+        "urlToImage": null,
+        "publishedAt": "2024-10-09T17:09:00Z",
+        "content": null
+      }
+    ]
+  }
